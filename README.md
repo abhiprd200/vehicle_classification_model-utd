@@ -42,6 +42,7 @@ A custom-built CNN designed for transparency and interpretability in feature ext
 * **[GitHub Repository](https://github.com/abhiprd200/vehicle_classification_model-utd)**
 * **[Hugging Face Model Card](https://huggingface.co/abhiprd20/vehicle_classification_model-utd)**
 * **[Hugging Face Spaces Deployment](https://huggingface.co/spaces/abhiprd20/vehicle_classification_model-utd)**
+* **[Published Technical note](https://zenodo.org/records/19098404)**
 
 ## Contact
 * E-mail : abhiprd20@gmail.com
