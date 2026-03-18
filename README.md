@@ -28,7 +28,13 @@ A custom-built CNN designed for transparency and interpretability in feature ext
 ## 📚 Research & Development Portfolio
 *This project is part of my broader commitment to AI and Computer Science research.*
 
-## 🛠️ Key Projects
+## 🔗 Links for this project
+* **[GitHub Repository](https://github.com/abhiprd200/vehicle_classification_model-utd)**
+* **[Hugging Face Model Card](https://huggingface.co/abhiprd20/vehicle_classification_model-utd)**
+* **[Hugging Face Spaces Deployment](https://huggingface.co/spaces/abhiprd20/vehicle_classification_model-utd)**
+* **[Published Technical note](https://zenodo.org/records/19098404)**
+
+## 🛠️ Other Key Projects
 * **Language Datasets**: Curated and published 100k+ rows datasets for low resource languages on Hugging Face for regional NLP research.
 * **CNSD Model Architecture**: Authored research on neural network configurations for optimized feature extraction.
 * Custom 4 sentiment models, 1 vehicle classification model and several datasets.
@@ -38,11 +44,7 @@ A custom-built CNN designed for transparency and interpretability in feature ext
 * **Demo of this project:** [Live on Hugging Face Spaces]((https://huggingface.co/spaces/abhiprd20/vehicle_classification_model-utd))
 * My github with other projects : https://github.com/abhiprd200
 
-## 🔗 Links for this project
-* **[GitHub Repository](https://github.com/abhiprd200/vehicle_classification_model-utd)**
-* **[Hugging Face Model Card](https://huggingface.co/abhiprd20/vehicle_classification_model-utd)**
-* **[Hugging Face Spaces Deployment](https://huggingface.co/spaces/abhiprd20/vehicle_classification_model-utd)**
-* **[Published Technical note](https://zenodo.org/records/19098404)**
+
 
 ## Contact
 * E-mail : abhiprd20@gmail.com
