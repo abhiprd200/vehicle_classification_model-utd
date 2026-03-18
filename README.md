@@ -29,14 +29,19 @@ A custom-built CNN designed for transparency and interpretability in feature ext
 *This project is part of my broader commitment to AI and Computer Science research.*
 
 ## 🛠️ Key Projects
-* **Bhojpuri Language Dataset**: Curated and published 100k+ rows datasets on Hugging Face for regional NLP research.
+* **Language Datasets**: Curated and published 100k+ rows datasets for low resource languages on Hugging Face for regional NLP research.
 * **CNSD Model Architecture**: Authored research on neural network configurations for optimized feature extraction.
 * Custom 4 sentiment models, 1 vehicle classification model and several datasets.
 * Link to my Hugging Face account : https://huggingface.co/abhiprd20 (with all models and datasets)
-* E-mail : abhiprd20@gmail.com
-* My research paper pre-print : https://zenodo.org/records/19054785
+* My NLP research paper pre-print : https://zenodo.org/records/19054785
 * 2nd research project : https://github.com/abhiprd200/CNSD_prototype
+* **Demo of this project:** [Live on Hugging Face Spaces]((https://huggingface.co/spaces/abhiprd20/vehicle_classification_model-utd))
 * My github with other projects : https://github.com/abhiprd200
+
+## 🔗 Links for this project
+* **[GitHub Repository](https://github.com/abhiprd200/vehicle_classification_model-utd)**
+* **[Hugging Face Model Card](https://huggingface.co/abhiprd20/vehicle_classification_model-utd)**
+* **[Hugging Face Spaces Deployment](https://huggingface.co/spaces/abhiprd20/vehicle_classification_model-utd)**
 
 ## Contact
 * E-mail : abhiprd20@gmail.com
